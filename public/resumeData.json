@@ -1,0 +1,177 @@
+{
+  "main": {
+    "name":"Upon Mount Zion Revival Ministries",
+    "description":"Obadiah 1:17 “But on Mount Zion there shall be deliverance, And there shall be holiness; The house of Jacob shall possess their possessions.",
+    "image":"UPMZRM.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "+234806444790",
+    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"No 1, Upon Mount Zion Crescent Aaye Junction, Ijare Road",
+      "city":"Akure",
+      "state":"Ondo",
+      "zip": "340106"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://web.facebook.com/uponmount.rm.9",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.youtube.com/@uponmountzionrmtv880",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      }
+     
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "programmes":[
+      {
+        "school":"Every Sunday",
+        "degree":"Sunday Service with Individual Counselling and Deliverance",
+        "graduated":"9:00am",
+        "description":"Our programmes are powerpacked"
+      },
+      {
+        "school": "Every Tuesday",
+        "degree": "Tuesday Expository Bible Study",
+        "graduated": "5:00pm",
+        "description": "Our programmes are powerpacked"
+      },
+      {
+        "school": "Every Friday ",
+        "degree": "Power Night",
+        "graduated": "5:00pm",
+        "description": "Our programmes are powerpacked"
+      }
+      
+    ],
+    "work":[
+      {
+        "company":"Every 1st Sunday of the Month",
+        "title":"Combine Prophetic Sunday Worship Service ",
+        "years":"9:00 am",
+        "description":"It is always inspiring."
+      },
+      {
+        "company": "Every 1st Monday of the Month",
+        "title": "GoodMorning Holy Spirit ",
+        "years": "6:00am - 7:30am",
+        "description": "It is always inspiring."
+      },
+      {
+        "company": "Every 1st Wednesday of the Month",
+        "title": "Jacob at Jabbokk Vigil ",
+        "years": "10:00 pm",
+        "description": "It is indeed a time to possess your possession."
+      },{
+        "company": "Every Last Friday of the Month",
+        "title": "General Deliverance Vigil ",
+        "years": "10:00 pm",
+        "description": "It is indeed a time to possess your possession and get delivered from every yokes."
+      }
+      
+    ],
+    "skills":[
+      {
+        "name":"Every Last Sunday of the Quarter",
+        "level":"Jesus Cares Mission"
+      }
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
