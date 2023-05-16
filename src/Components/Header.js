@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import ParticlesBg from "particles-bg";
 import Fade from "react-reveal";
+import Dropdown from "./Dropdown";
 
 class Header extends Component {
   render() {
@@ -48,19 +49,12 @@ class Header extends Component {
               </a>
             </li>
             <li>
-              {/* <a className="smoothscroll" href="#portfolio"> */}
-              Donations
-              {/* </a> */}
-              <select>
-                <option value="fruit">Donations</option>
-                <option value="fruit">  <a className="smoothscroll" href="#portfolio"> 
-              Jesus Cares Missions
-               </a> </option>
-                <option value="vegetable">Tithes and Offering</option>
-                <option value="meat">Mountain Top Project</option>
-              </select>
+              <a className="smoothscroll" href="#contact">
+                Zionists
+              </a>
             </li>
           </ul>
+          <Dropdown />
         </nav>
 
         <div className="row banner">
