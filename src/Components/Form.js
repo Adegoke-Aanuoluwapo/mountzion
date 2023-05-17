@@ -1,7 +1,12 @@
-import React from "react";
-
+import React, { useState } from "react";
+import "../App.css"
 
 const Form = () => {
+ const [fullname, setFullName] = useState(''); 
+ const [phone, setPhone] = useState("");
+ const [email, setEmail] = useState("");
+ const [sex, setSex] = useState("");
+    
   return (
     <div className="container" style={{marginLeft:"500px"}}>
       <label htmlFor="fullnames">Fullnames</label>
