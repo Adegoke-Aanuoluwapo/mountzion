@@ -148,6 +148,8 @@ class Contact extends Component {
             </aside>
           </Slide>
         </div>
+        
+        
       </section>
     );
   }

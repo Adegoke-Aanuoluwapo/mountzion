@@ -1,20 +1,36 @@
-import React from 'react'
+import React from "react";
+
 
 const Form = () => {
- return (
-  <div>
-   <label htmlFor="name">Fullnames</label>
-  <input type="text" name="name" id="name"/>
-   <label htmlFor="name">Phone</label>
-   <input type="tel" name="phone" id="phone" />
-   <label htmlFor="name"><option>Sex</option></label>
-   <input type="text" name="name" id="name" />
-   <label htmlFor="name">Name</label>
-   <input type="text" name="name" id="name" />
-   <label htmlFor="name">Name</label>
-   <input type="text" name="name" id="name" />
-  </div>
- )
-}
+  return (
+    <div className="container" style={{marginLeft:"500px"}}>
+      <label htmlFor="fullnames">Fullnames</label>
+      <input type="text" name="name" id="fullnames" />
+      <label htmlFor="phone">Phone</label>
+      <input type="tel" name="phone" id="phone" />
+    <label htmlFor="email">Email</label>
+    <input type="email" name="email" id="email" />
+      <label htmlFor="sex">Sex</label>
+      <select>
+        <option value="male">Male</option>
+        <option value="female">Female</option>
+      </select>
+    <label htmlFor="position">Position</label>
+    <select>
+     <option value="member">Member</option>
+     <option value="worker">Worker</option>
+    </select>
+    <label htmlFor="name">State</label>
+    <select>
+     <option value="abuja">Abuja</option>
+     <option value="lagos">Lagos</option>
+     <option value="ondo">Ondo</option>
+     
+    </select>
+    <button name="submit" value="submit">SUBMIT</button>
+      
+    </div>
+  );
+};
 
-export default Form
+export default Form;

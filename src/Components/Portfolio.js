@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Zmage from "react-zmage";
 import Fade from "react-reveal";
 
+
 let id = 0;
 class Portfolio extends Component {
   render() {
@@ -32,10 +33,13 @@ class Portfolio extends Component {
                 className="bgrid-quarters s-bgrid-thirds cf"
               >
                 {projects}
+                
               </div>
             </div>
           </div>
         </Fade>
+        
+         
       </section>
     );
   }

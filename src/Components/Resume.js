@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Slide from "react-reveal";
 //import payment from "./payment.js"
 
+
 class Resume extends Component {
   getRandomColor() {
     let letters = "0123456789ABCDEF";
@@ -127,10 +128,14 @@ class Resume extends Component {
                 {" "}
                 Pay{" "}
               </button>
+              
             </div>
           </form>
+          
+          
 
           <script src="https://js.paystack.co/v1/inline.js"></script>
+          
         </div>
       </section>
     );
